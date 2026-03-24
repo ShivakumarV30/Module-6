@@ -26,8 +26,8 @@ To write a Python program to create a class `Student` with the private members `
 ### PROGRAM
 
 ```python
-#Reg no-212222060224
-#Name- SANTHOSH M J
+#Reg no-212222060239
+#Name- SHIVAKUMAR K V
 class Student:
     def __init__(self, name, age):
         self.name = name
